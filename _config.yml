@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Piratas - European Pirates
+title: Elecciones europeas del 26 de mayo de 2019
 email: hola@piratas.org 
 description: >- # this means to ignore newlines until "baseurl:"
-  Piratas - European Pirates es una candidatura para las elecciones europeas
-  hermandada con los partidos pirata de la Unión Europea.
+  Piratas - European Pirates es una candidatura para las elecciones europeas del próximo
+  26 de mayo de 2019, hermandada con los partidos pirata de la Unión Europea.
+  
+  Democracia directa, transparencia, economía al servicio de las personas, DDHH, Open Access, Open Data, software y cultura libres. ☠
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "piratas.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: partidos_pirata
