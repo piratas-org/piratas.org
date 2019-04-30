@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Elecciones europeas del 26 de mayo de 2019
+title: Piratas - European Pirates | Elecciones europeas del 26 de mayo de 2019
 email: hola@piratas.org 
 description: >- # this means to ignore newlines until "baseurl:"
   Piratas - European Pirates es una candidatura para las elecciones europeas del próximo
