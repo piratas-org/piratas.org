@@ -28,43 +28,46 @@
 
 $theme-colors: ("primary": #0095b6);
 
+$enable-responsive-font-sizes: true;
+
+$font-size-base: 1.2rem;
+
 @import "~bootstrap/scss/functions";
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/mixins";
-
 @import "~bootstrap/scss/reboot";
 @import "~bootstrap/scss/type";
+
 @import "~bootstrap/scss/grid";
-@import "~bootstrap/scss/jumbotron";
-@import "~bootstrap/scss/navbar";
 @import "~bootstrap/scss/images";
+@import "~bootstrap/scss/jumbotron";
+@import "~bootstrap/scss/nav";
+@import "~bootstrap/scss/utilities/background";
+@import "~bootstrap/scss/utilities/display";
+@import "~bootstrap/scss/utilities/flex";
+@import "~bootstrap/scss/utilities/spacing";
+@import "~bootstrap/scss/utilities/text";
 
 body {
     font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Cantarell, "Helvetica Neue", sans-serif;
-    background-image: url("/img/background.svg");
+}
+
+.content {
+    background-image: url(/img/background.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-#home {
-    padding-top: 1rem;
-    text-align: center;
+#menu {
+    color: #ffffff;
 
-    .logo {
-        padding-bottom: 1rem;
+    a, a:hover {
+        color: #ffffff;
     }
 
-    .jumbotron {
-        text-align: left;
+    a:hover {
+        text-decoration: underline;
     }
-}
-
-footer {
-    text-align: center;
-    margin-top: 1rem;
-    padding: 3rem;
-    background-color: #0095b6;
-    color: white;
 }
 
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
@@ -336,4 +339,13 @@ footer {
     border: none;
     min-height: 0px;
     padding-bottom: 0px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 3rem;
+    background-color: #0095b6;
+    color: white;
 }

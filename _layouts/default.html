@@ -9,8 +9,18 @@
     <link rel="stylesheet" href="/dist/bundle.css">
 </head>
 <body>
-    <div class="container">
-        {{ content }}
+    <div class="container-fluid bg-primary">
+        <div class="container">
+            <nav id="menu" class="nav justify-content-end">
+                <a class="nav-item nav-link" href="/ideario/">Ideario</a>   
+            </nav>
+        </div>
+    </div>
+    <div class="container-fluid content pb-2">
+        <div class="container">
+            <a href="/"><img class="logo img-fluid mx-auto d-block pb-4" alt="Piratas - European Pirates" src="/img/piratas.png"></a>
+            {{ content }}
+        </div>
     </div>
     <footer>
         <p>{{ site.title }}</p>
