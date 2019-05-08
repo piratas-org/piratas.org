@@ -41,7 +41,9 @@ $font-size-base: 1.2rem;
 @import "~bootstrap/scss/grid";
 @import "~bootstrap/scss/images";
 @import "~bootstrap/scss/jumbotron";
+@import "~bootstrap/scss/navbar";
 @import "~bootstrap/scss/nav";
+@import "~bootstrap/scss/dropdown";
 @import "~bootstrap/scss/utilities/background";
 @import "~bootstrap/scss/utilities/display";
 @import "~bootstrap/scss/utilities/flex";
@@ -60,6 +62,7 @@ body {
 
 #menu {
     color: #ffffff;
+    padding-bottom: 1rem;
 
     a, a:hover {
         color: #ffffff;
@@ -67,6 +70,12 @@ body {
 
     a:hover {
         text-decoration: underline;
+    }
+
+    .dropdown-menu {
+        a, a:hover {
+            color: #0095b6;
+        }
     }
 }
 

@@ -11,9 +11,23 @@
 <body>
     <div class="container-fluid bg-primary">
         <div class="container">
-            <nav id="menu" class="nav justify-content-end">
-                <a class="nav-item nav-link" href="/ideario/">Ideario</a>   
-            </nav>
+            <ul id="menu" class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link" href="/ideario/">Ideario</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/programa/">Programa</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a id="organizaciones" class="nav-item nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true">Organizaciones</a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="organizaciones">
+                        <a class="dropdown-item" target="_blank" href="https://pirates.cat">Pirates de Catalunya</a>
+                        <a class="dropdown-item" target="_blank" href="http://partidopirata.org/inicio/">Partido Pirata</a>
+                        <a class="dropdown-item" target="_blank" href="http://confederacionpirata.org/">Confederación Pirata</a>
+                        <a class="dropdown-item" target="_blank" href="https://www.facebook.com/MaryReadP/">Mary Read - Grupo de Piratas Feministas</a>
+                    </div>
+                </li>
+            </ul>
         </div>
     </div>
     <div class="container-fluid content pb-2">

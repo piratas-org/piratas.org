@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{:.font-weight-bold}
 # Ideario
 
 ## Defendemos los derechos y libertades conquistados por las luchas anteriores a la nuestra.
