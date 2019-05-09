@@ -21,7 +21,7 @@ Trabajaremos para conseguir la separación de poderes efectiva, la justicia soci
 
 Construiremos una sociedad feminista donde todas las personas sean libres e iguales en dignidad y derechos, y no haya ningún tipo de discriminación por identidad de género u opción o identidad sexual.
 
-## Descentralizar el poder.
+## Descentralizamos el poder.
 
 Acercaremos la información y las decisiones a la ciudadanía, permitiremos su autodeterminación y evitaremos la concentración de poder en oligarquías mediante mecanismos de democracia líquida y transparencia, hasta alcanzar una democracia directa.
 
@@ -41,7 +41,7 @@ Apostaremos por un sistema educativo que prepare las nuevas generaciones para af
 
 Fomentaremos modelos económicos basados en la cooperación y la colaboración, no especulativos y sostenibles. Defenderemos que las personas no son mercancía sino que debe beneficiarse del fruto del esfuerzo colectivo.
 
-## Democraticemos la tecnología.
+## Democratizamos la tecnología.
 
 Facilitaremos el acceso a la tecnología esencial para participar en sociedad, garantizaremos todos los derechos fundamentales y completaremos la migración de la administración pública en el uso de software libre y formatos abiertos.
 
@@ -53,13 +53,13 @@ Defenderemos la neutralidad de la red como garantía de ausencia de restriccione
 
 Reformaremos la legislación de derechos de autor y copyright para garantizar la libertad de decisión entre la autogestión y poder trabajar con entidades de gestión, así como también buscaremos el diálogo para encontrar un modelo que beneficie a los creadores y la sociedad en su conjunto.
 
-## Consideremos la I+D+i necesaria para el avance de la sociedad.
+## Consideramos la I+D+i necesaria para el avance de la sociedad.
 
 Reformaremos el sistema de patentes para evitar su abuso por parte de grandes corporaciones y nos opondremos a las patentes de software y sobre organismos vivos o híbridos. Promoveremos el acceso abierto a la producción científica.
 
 ## Socializamos la cultura, el conocimiento y la información.
 
-Despenaliza el libre intercambio sin ánimo de lucro y fomentaremos el acceso a la cultura como herramienta eficaz para distribuirla y promocionarla. Liberaremos toda obra e investigación financiada con dinero público. Promoveremos la neutralidad de los medios de comunicación, especialmente los públicos.
+Despenalizar el libre intercambio sin ánimo de lucro y fomentaremos el acceso a la cultura como herramienta eficaz para distribuirla y promocionarla. Liberaremos toda obra e investigación financiada con dinero público. Promoveremos la neutralidad de los medios de comunicación, especialmente los públicos.
 
 ## Acogemos en libertad, no expulsamos por seguridad.
 

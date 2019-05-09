@@ -7,11 +7,6 @@ toc: true
 # Programa electoral común europeo
 
 {:.font-weight-bold}
-## Índice
-
-{% toc %}
-
-{:.font-weight-bold}
 ## Preámbulo
 
 Hoy día la Unión Europea como institución supranacional es un proyecto de sus estados miembros pero no de sus ciudadanos. Los Partidos Piratas creemos que Europa debería organizarse en torno al interés común de todos los ciudadanos europeos, así como los intereses de los estados miembros.
@@ -372,7 +367,7 @@ El software libre reduce los costos administrativos, promueve el soporte técnic
 Los ciudadanos y las empresas no deben ser obligados a usar software privativo cuando tratan con la administración pública. La comunicación en línea con el gobierno debe basarse en protocolos y formatos gratuitos y neutrales para el proveedor.
 
 {:.font-weight-bold}
-## Información abierta
+## Datos abiertos
 
 Todos los datos creados para uso público, independientemente de su origen, deben estar libremente disponibles para el público en general, siempre que los datos personales no se revelen sin el consentimiento de las personas involucradas. Dichos datos deberán estar disponibles en una forma apropiada, que también incluirá un formulario para el procesamiento de datos. El acceso no debe estar limitado por tarifas, licencias, procedimientos de aplicación excesivos o medios técnicos.
 
@@ -382,6 +377,7 @@ Nos esforzamos por lograr una Ley de libertad de información en el ámbito de l
 ## Política de la red
 
 La revolución digital ha cambiado las estructuras sociales y económicas en toda Europa; El acceso gratuito e igualitario a Internet es ahora un requisito básico para la participación en la sociedad civil.
+
 Los ciudadanos deben tener la opción de acceder a Internet de forma anónima.
 
 Los piratas desean incluir el derecho de "participación digital" en la Carta Europea de los Derechos Fundamentales. Apoyaremos medidas que busquen garantizar la capacidad de la sociedad civil representativa para participar en foros de múltiples partes interesadas. Nos opondremos a cualquier intento por parte de agencias corporativas, gubernamentales o intergubernamentales para tomar el control de la gobernanza de Internet.
@@ -578,7 +574,8 @@ Los piratas europeos proponen que la UE debería:
 {:.font-weight-bold}
 ## Programa espacial
 
-El espacio como factor vital
+### El espacio como factor vital
+
 La comunicación y navegación por satélite, la observación de la Tierra para el pronóstico del tiempo, el alivio de desastres y el seguimiento de la contaminación, y la investigación basada en la órbita son parte normal de nuestra vida actual.
 
 Europa desempeña un papel vital, aunque relativamente pequeño, en la tecnología espacial. Queremos estimular este sector y abrirlo para nuevas empresas. Esto generará un gran impulso para la tecnología, así como la colaboración entre los estados miembros de la UE y las naciones socias.
@@ -604,6 +601,7 @@ Apoyo a la investigación y el desarrollo de tecnologías de uso múltiple de re
 ### Metas a largo plazo
 
 El programa espacial también debería financiar objetivos que están o parecen estar fuera de alcance hoy.
+
 Trabajar en objetivos remotos, como la construcción de un láser de navegación ligera interestelar, un elevador espacial o un gancho espacial, estimulará el desarrollo de tecnologías y materiales radicalmente nuevos. Para garantizar el uso civil para beneficio de la humanidad, así como una colaboración científica y económica efectiva, tales tecnologías espaciales grandes y poderosas deben desarrollarse a la par con socios internacionales.
 
 ### Cosechando beneficios del programa espacial
