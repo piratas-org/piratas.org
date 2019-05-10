@@ -6,6 +6,8 @@ toc: true
 {:.font-weight-bold}
 # Programa electoral comú europeu
 
+<a class="small text-secondary" href="europa2019-CAT.pdf">[En PDF]</a>
+
 {:.font-weight-bold}
 ## Preàmbul
 

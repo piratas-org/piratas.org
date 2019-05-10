@@ -118,11 +118,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #0095b6;
+  color: #0095a7;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #00566a;
+    color: #00515b;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1347,7 +1347,7 @@ mark,
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #0095b6; }
+  background-color: #0095a7; }
 
 .nav-fill .nav-item {
   flex: 1 1 auto;
@@ -1544,7 +1544,7 @@ mark,
   .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #0095b6; }
+    background-color: #0095a7; }
   .dropdown-item.disabled, .dropdown-item:disabled {
     color: #6c757d;
     pointer-events: none;
@@ -1567,20 +1567,20 @@ mark,
   color: #212529; }
 
 .bg-primary {
-  background-color: #0095b6 !important; }
+  background-color: #0095a7 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #006b83 !important; }
+  background-color: #006774 !important; }
 
 .bg-secondary {
-  background-color: #6c757d !important; }
+  background-color: #ffd900 !important; }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #545b62 !important; }
+  background-color: #ccae00 !important; }
 
 .bg-success {
   background-color: #28a745 !important; }
@@ -3592,16 +3592,16 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #0095b6 !important; }
+  color: #0095a7 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #00566a !important; }
+  color: #00515b !important; }
 
 .text-secondary {
-  color: #6c757d !important; }
+  color: #ffd900 !important; }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important; }
+  color: #b39800 !important; }
 
 .text-success {
   color: #28a745 !important; }
@@ -3677,14 +3677,14 @@ body {
   background-repeat: no-repeat; }
 
 #menu {
-  color: #ffffff;
+  color: #ffd900;
   padding-bottom: 1rem; }
   #menu a, #menu a:hover {
-    color: #ffffff; }
+    color: #ffd900; }
   #menu a:hover {
     text-decoration: underline; }
   #menu .dropdown-menu a, #menu .dropdown-menu a:hover {
-    color: #0095b6; }
+    color: #0095a7; }
 
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {
@@ -3919,5 +3919,5 @@ footer {
   text-align: center;
   margin-top: 1rem;
   padding: 3rem;
-  background-color: #0095b6;
+  background-color: #0095a7;
   color: white; }
