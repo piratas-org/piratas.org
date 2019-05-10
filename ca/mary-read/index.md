@@ -2,6 +2,9 @@
 layout: ca/default
 ---
 
+{:.font-weight-bold}
+# Mary Read
+
 Mary Read va néixer fa diversos anys com a iniciativa de compas amb inquietuds feministes en el que el partit es quedava curt.
 
 Necessitàvem la transversalitat del feminisme com a experiència alliberadora i congregante de les diferents pirates de totes les parts de l'Estat espanyol.
