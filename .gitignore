@@ -86,6 +86,9 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# Bundler
+.bundle
+.vendor
 
 #### visualstudiocode ####
 .vscode/*
