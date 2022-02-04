@@ -1,5 +1,5 @@
 const path = require("path");
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
   entry: "./src/piratas.js",
@@ -10,16 +10,12 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(scss)$/,
-        use: ExtractTextPlugin.extract({
-          use: ["css-loader", "sass-loader"]
-        })
+        test: /\.scss$/i,
+        use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"]
       },
       {
-        test: /\.(css)$/,
-        use: ExtractTextPlugin.extract({
-          use: ["css-loader"]
-        })
+        test: /\.css$/i,
+        use: [MiniCssExtractPlugin.loader, "css-loader"]
       },
       {
         test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
@@ -37,6 +33,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin('bundle.css')
+    new MiniCssExtractPlugin({ filename: 'bundle.css'})
   ]
 };

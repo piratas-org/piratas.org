@@ -4,7 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src: url(fonts/ubuntu-latin-300-normal.woff2) format('woff2'), url(fonts/ubuntu-latin-300-normal.woff) format('woff');
+  src: url(837730c19962e524faa3.woff2) format('woff2'), url(056413cc9d7d9cc43f8e.woff) format('woff');
   
 }
 /* ubuntu-latin-400-normal*/
@@ -13,7 +13,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(fonts/ubuntu-latin-400-normal.woff2) format('woff2'), url(fonts/ubuntu-latin-400-normal.woff) format('woff');
+  src: url(8ce7fe8e78409c298100.woff2) format('woff2'), url(e59b2d39c5f44f6c839f.woff) format('woff');
   
 }
 /* ubuntu-latin-500-normal*/
@@ -22,7 +22,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(fonts/ubuntu-latin-500-normal.woff2) format('woff2'), url(fonts/ubuntu-latin-500-normal.woff) format('woff');
+  src: url(6862ed3b718d16c8c83a.woff2) format('woff2'), url(924107afa959744fec33.woff) format('woff');
   
 }
 /* ubuntu-latin-700-normal*/
@@ -31,9 +31,10 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(fonts/ubuntu-latin-700-normal.woff2) format('woff2'), url(fonts/ubuntu-latin-700-normal.woff) format('woff');
+  src: url(6a813646558552c2dba4.woff2) format('woff2'), url(30710e373bfac6dffb33.woff) format('woff');
   
 }
+
 /* Global variables. */
 :root {
   /* Set sans-serif & mono fonts */
@@ -527,5 +528,5 @@ pre code {
   margin: 0;
   padding: 0;
 }
-:root{--sans-font: Ubuntu, -apple-system, BlinkMacSystemFont, segoe ui, Roboto,
-    Oxygen, Cantarell, open sans, helvetica neue, sans-serif}h1 img{width:80%;max-width:452px;padding:1rem}h4{line-height:1.25;margin-bottom:-0.5rem}.notice{background:var(--accent-bg);border:2px solid var(--border);border-radius:5px;padding:1.5rem;margin:2rem 0}
+
+:root{--sans-font: Ubuntu, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Cantarell, open sans, helvetica neue, sans-serif}h1 img{width:80%;max-width:452px;padding:1rem}h4{line-height:1.25;margin-bottom:-0.5rem}.notice{background:var(--accent-bg);border:2px solid var(--border);border-radius:5px;padding:1.5rem;margin:2rem 0}

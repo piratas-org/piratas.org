@@ -22,17 +22,12 @@
     "simpledotcss": "^2.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "css-loader": "^2.1.1",
-    "exports-loader": "^0.7.0",
-    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "css-loader": "^6.6.0",
     "file-loader": "^6.2.0",
-    "node-sass": "^4.14.1",
-    "postcss-loader": "^3.0.0",
-    "precss": "^4.0.0",
-    "sass-loader": "^7.3.1",
-    "style-loader": "^0.23.1",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "mini-css-extract-plugin": "^2.5.3",
+    "sass": "^1.49.7",
+    "sass-loader": "^12.4.0",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
   }
 }
