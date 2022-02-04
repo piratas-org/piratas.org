@@ -1,51 +1,42 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
-<head>
+  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>{{ site.title }}</title>
     {% seo title=false %}
-    <link rel="stylesheet" href="/dist/bundle.css">
-</head>
-<body>
-    <div class="container-fluid bg-primary">
-        <div class="container">
-            <ul id="menu" class="nav justify-content-end">
-                <li class="nav-item">
-                    <a class="nav-link" href="/ideario/">Ideario</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/programa/">Programa</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a id="organizaciones" class="nav-item nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true">Organizaciones</a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="organizaciones">
-                        <a class="dropdown-item" target="_blank" href="https://pirates.cat">Pirates de Catalunya</a>
-                        <a class="dropdown-item" target="_blank" href="http://partidopirata.es/programa/">Partido Pirata</a>
-                        <a class="dropdown-item" target="_blank" href="http://confederacionpirata.org/">Confederación Pirata</a>
-                        <a class="dropdown-item" href="/mary-read/">Mary Read - Grupo de Piratas Feministas</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a id="idiomas" class="nav-item nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true">Idiomas</a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="idiomas">
-                        <a class="dropdown-item" href="/">Castellano</a>
-                        <a class="dropdown-item" href="/ca/">Català</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="container-fluid content pb-2">
-        <div class="container">
-            <a href="/"><img class="logo img-fluid mx-auto d-block pb-4" alt="Piratas - European Pirates" src="/img/piratas.png"></a>
-            {{ content }}
-        </div>
-    </div>
+    <link rel="preload" href="/img/piratas.png" as="image" />
+    <link
+      rel="preload"
+      href="/dist/fonts/ubuntu-latin-400-normal.woff2"
+      crossorigin="anonymous"
+      as="font"
+      type="font/woff2"
+    />
+    <link
+      rel="preload"
+      href="/dist/fonts/ubuntu-latin-700-normal.woff2"
+      crossorigin="anonymous"
+      as="font"
+      type="font/woff2"
+    />
+    <link rel="stylesheet" href="/dist/bundle.css" />
+  </head>
+  <body>
+    <header>
+      <a href="/">
+        <h1><img alt="Piratas" src="/img/piratas.png" /></h1>
+      </a>
+      <p>
+        Derechos humanos, democracia directa, software y cultura libres, datos y
+        acceso abierto, transparencia, feminismo y una economía para las
+        personas
+      </p>
+    </header>
+    <main>{{ content }}</main>
     <footer>
-        <p>{{ site.title }}</p>
+      <p>{{ site.title }}</p>
     </footer>
-    <script src="/dist/bundle.js"></script>
-</body>
+  </body>
 </html>

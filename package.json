@@ -1,7 +1,7 @@
 {
   "name": "piratas.org",
-  "version": "0.0.1",
-  "description": "Web oficial de la candidatura Piratas - European Pirates para las elecciones europeas de 2019",
+  "version": "0.0.2",
+  "description": "Piratas official website",
   "main": "index.md",
   "scripts": {
     "build": "webpack",
@@ -9,24 +9,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imdario/piratas.org.git"
+    "url": "git+https://github.com/piratas-org/piratas.org.git"
   },
   "author": "",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/imdario/piratas.org/issues"
+    "url": "https://github.com/piratas-org/piratas.org/issues"
   },
-  "homepage": "https://github.com/imdario/piratas.org#readme",
+  "homepage": "https://github.com/piratas-org/piratas.org#readme",
   "dependencies": {
-    "bootstrap": "^4.5.2",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "@fontsource/ubuntu": "^4.5.1",
+    "simpledotcss": "^2.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "css-loader": "^2.1.1",
     "exports-loader": "^0.7.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^6.2.0",
     "node-sass": "^4.14.1",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",

@@ -13,20 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Piratas - Democracia directa, transparencia, economía al servicio de las personas, DDHH, Open Access, Open Data, software y cultura libres
+title: Piratas - Derechos humanos, democracia directa, software y cultura libres, datos y acceso abierto, transparencia, feminismo y una economía para las personas
 email: hola@piratas.org 
 description: >- # this means to ignore newlines until "baseurl:"
-  Los piratas somos un movimiento internacional, con presencia en 16 países de la Unión Europea, y nos presentamos a las elecciones europeas en España. Defendemos los Derechos Humanos, la democracia directa, el software y la cultura libres, la transparencia, el feminismo y una economía con las personas en el centro. ☠"
+  Somos un partido internacional con presencia en 40 países y con representación desde ayuntamientos hasta el Parlamento Europeo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "piratas.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://piratas.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: partidos_pirata
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,6 +37,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-toc:
-  max_level: 2

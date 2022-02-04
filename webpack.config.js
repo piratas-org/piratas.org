@@ -14,6 +14,25 @@ module.exports = {
         use: ExtractTextPlugin.extract({
           use: ["css-loader", "sass-loader"]
         })
+      },
+      {
+        test: /\.(css)$/,
+        use: ExtractTextPlugin.extract({
+          use: ["css-loader"]
+        })
+      },
+      {
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+              outputPath: 'fonts/',
+              esModule: false
+            }
+          }
+        ]
       }
     ]
   },
