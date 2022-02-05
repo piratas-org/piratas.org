@@ -70,4 +70,4 @@ Rechazaremos toda iniciativa que reduzca las libertades a cambio de seguridad y 
 
 Promoveremos la recuperación del entorno natural y la sostenibilidad fundamentada en la ciencia para apoyar y continuidad para las futuras generaciones. Fomentaremos políticas efectivas de reducción, reutilización y reciclaje de residuos, así como la recuperación de los recursos naturales explotados.
 
-<img src="/img/bandera-ondeando.jpg">
+<img src="/img/bandera-ondeando.jpg" loading="lazy">

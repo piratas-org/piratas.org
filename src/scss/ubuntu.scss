@@ -1,12 +1,4 @@
 // Based on https://simonhearne.com/2021/layout-shifts-webfonts/
-/* ubuntu-latin-300-normal*/
-@font-face {
-  font-family: "Ubuntu";
-  font-style: normal;
-  font-display: optional;
-  font-weight: 300;
-  src: url('~@fontsource/ubuntu/files/ubuntu-latin-300-normal.woff2') format("woff2");
-}
 /* ubuntu-latin-400-normal*/
 @font-face {
   font-family: "Ubuntu";
@@ -14,14 +6,6 @@
   font-display: optional;
   font-weight: 400;
   src: url('~@fontsource/ubuntu/files/ubuntu-latin-400-normal.woff2') format("woff2");
-}
-/* ubuntu-latin-500-normal*/
-@font-face {
-  font-family: "Ubuntu";
-  font-style: normal;
-  font-display: optional;
-  font-weight: 500;
-  src: url('~@fontsource/ubuntu/files/ubuntu-latin-500-normal.woff2') format("woff2");
 }
 /* ubuntu-latin-700-normal*/
 @font-face {
