@@ -12,19 +12,19 @@ No aceptaremos ningún paso atrás. Ninguna ley para hacer frente a los cambios 
 
 #### Respetamos la diferencia
 
-Defenderemos que toda opinión y creencia de que no atente contra la dignidad y derechos de las personas no puede ser objeto de discriminación. Pero tampoco defendemos que alguna tenga privilegios respecto a las otras. El Estado no promoverá ninguna religión ni participará de ningún culto organizado.
+Defenderemos toda opinión y creencia que respete la dignidad y derechos de las personas, con igualdad de derechos. Promoveremos la laicidad del Estado, que no sostendrá ni participará de ningún credo o culto organizado.
 
 #### Construimos una sociedad que nazca del consenso y la solidaridad, orientada hacia el bien común, la equidad y la inclusión
 
 Trabajaremos para conseguir la separación de poderes efectiva, la justicia social, la calidad legislativa y una administración pública abierta, transparente y eficiente.
 
-#### Creemos en la igualdad
+#### Practimos y promovemos la igualdad y la equidad como principios rectores
 
-Construiremos una sociedad feminista donde todas las personas sean libres e iguales en dignidad y derechos, y no haya ningún tipo de discriminación por identidad de género u opción o identidad sexual.
+Construiremos una sociedad feminista en la que todas las personas sean libres e iguales en dignidad y derechos, y no haya ningún tipo de discriminación por identidad de género u opción o identidad sexual.
 
 #### Descentralizamos el poder
 
-Acercaremos la información y las decisiones a la ciudadanía, permitiremos su autodeterminación y evitaremos la concentración de poder en oligarquías mediante mecanismos de democracia líquida y transparencia, hasta alcanzar una democracia directa.
+Acercaremos la información y las decisiones a la ciudadanía, posibilitando su autodeterminación y evitando la concentración de poder en oligarquías mediante mecanismos de democracia líquida y transparencia, hasta alcanzar una democracia directa.
 
 #### Redistribuimos la riqueza
 
@@ -34,13 +34,13 @@ Aplicaremos mecanismos de redistribución que garanticen la existencia digna y e
 
 Promoveremos la política basada en evidencias y el pensamiento crítico para la creación de nueva legislación y los procesos participativos abiertos a toda la ciudadanía.
 
-#### Educamos en la democracia y la igualdad
+#### Educamos en la democracia, la igualdad y la equidad
 
 Apostaremos por un sistema educativo que prepare las nuevas generaciones para afrontar los retos del mañana con los valores de este ideario, el respeto a todas las sexualidades, identidades de género y diferencias culturales.
 
 #### Cooperamos por una economía humana
 
-Fomentaremos modelos económicos basados en la cooperación y la colaboración, no especulativos y sostenibles. Defenderemos que las personas no son mercancía sino que debe beneficiarse del fruto del esfuerzo colectivo.
+Fomentaremos modelos económicos basados en la cooperación y la colaboración, no especulativos y sostenibles. Defenderemos que las personas no son mercancía sino que deben beneficiarse del fruto del esfuerzo colectivo.
 
 #### Democratizamos la tecnología
 
@@ -60,7 +60,7 @@ Reformaremos el sistema de patentes para evitar su abuso por parte de grandes co
 
 #### Socializamos la cultura, el conocimiento y la información
 
-Despenalizar el libre intercambio sin ánimo de lucro y fomentaremos el acceso a la cultura como herramienta eficaz para distribuirla y promocionarla. Liberaremos toda obra e investigación financiada con dinero público. Promoveremos la neutralidad de los medios de comunicación, especialmente los públicos.
+Despenalizaremos el libre intercambio sin ánimo de lucro y fomentaremos el acceso a la cultura como herramienta eficaz para distribuirla y promocionarla. Liberaremos toda obra e investigación financiada con dinero público. Promoveremos la neutralidad de los medios de comunicación, especialmente los públicos.
 
 #### Acogemos en libertad, no expulsamos por seguridad
 
